@@ -12,6 +12,10 @@ My Personal Resource List
 + https://www.freecodecamp.org/news/what-are-scripts-and-how-do-they-work/
 + [How to build Claude Skills](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 + [Databases Refresher](https://www.freecodecamp.org/news/learn-databases-in-depth/)
++ https://github.com/git-learning-game/oh-my-git
++ https://t.co/ZgRz6H41l1
++ [Beginner Guide to Claude](https://x.com/aiedge_/status/2029233676111008061?s=20)
++ [System Design Problems](https://www.scalemock.com/hld)
 
 ## Fun
 + https://github.com/opengaming/osgameclones
